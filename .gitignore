@@ -1,0 +1,13 @@
+build/
+*.bin
+*.img
+*.qcow2
+*.vdi
+*.vmdk
+*.vhd
+*.iso
+*.zip
+*.log
+.DS_Store
+__pycache__/
+*.pyc
